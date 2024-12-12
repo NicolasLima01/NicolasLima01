@@ -11,10 +11,10 @@ Here are some ideas to get you started:-->
 <br>
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&theme=merko&layout=compact">  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&theme=merko&layout=compact">  
 </div>
 <br>
-<div style="padding-right: {50px};">
+<div>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">   
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">      
