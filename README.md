@@ -2,7 +2,6 @@
 
 - Procurando por emprego  
 - Eu estudo Front-end e Back-end  
-- nicolasrlima@protonmail.com  
 
 ---
 
