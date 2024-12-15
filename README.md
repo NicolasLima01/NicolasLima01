@@ -22,7 +22,7 @@
 ## Estatísticas  
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&theme=merko&layout=compact">  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko">
 </div>
 
