@@ -1,9 +1,12 @@
 # Olá, eu sou Nicolas Lima
 
-- Procurando por emprego  
-- Eu estudo Front-end e Back-end  
+Bem-vindo ao meu repositório! Este espaço foi criado para compartilhar meus projetos, aprendizados e tudo o que me motiva na jornada da programação. Aqui você encontrará alguns dos meus projetos mais recentes, experimentações e algumas ideias que estão em andamento.
 
----
+# Sobre mim
+
+Sou um aspirante a programador Full-Stack, com paixão por Back-End utilizando .Net e Desenvolvimento Web. Sempre em busca de aprender mais e de compartilhar meu conhecimento com a comunidade.
+
+Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus projetos, fique à vontade para abrir uma issue ou me mandar uma mensagem!
 
 ## Tecnologias  
 
