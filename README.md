@@ -33,6 +33,8 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
   </a>
 </div>
 
+<!--![](https://komarev.com/ghpvc/?username=your-github-NicolasLima01&color=green&label=PROFILE+VIEWS)-->
+
 ---
 
 ## Estatísticas  
