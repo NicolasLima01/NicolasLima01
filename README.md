@@ -39,8 +39,9 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
 ## Estatísticas  
 
 <div>
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko">
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko">
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko&locale=pt-br">
+  <img align="center" width="40%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko&locale=pt-br">
 </div>
 
 ## Principais Repositórios
