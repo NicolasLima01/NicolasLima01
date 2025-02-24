@@ -24,14 +24,13 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
 
 ## Contato
 
-<div>
   <a href="https://www.linkedin.com/in/nicolaslima01/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   <a href="mailto:nicolasrlima@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
-</div>
 
 <!--![](https://komarev.com/ghpvc/?username=your-github-NicolasLima01&color=green&label=PROFILE+VIEWS)-->
 
@@ -40,7 +39,16 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
 ## Estatísticas  
 
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko">
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko">
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko">
 </div>
 
+## Principais Repositórios
+<div>
+<a href="">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=HardConstruct&theme=merko" />
+</a>
+<a>
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=GreenIT&theme=merko" />
+</a>
+</div>
