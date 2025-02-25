@@ -46,10 +46,11 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
 
 ## Principais Repositórios
 <div>
-<a href="">
+
+<a href="https://github.com/NicolasLima01/HardConstruct">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=HardConstruct&theme=merko" />
 </a>
-<a>
+<a href="https://github.com/NicolasLima01/GreenIT">
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=GreenIT&theme=merko" />
 </a>
 </div>
