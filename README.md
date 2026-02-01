@@ -35,7 +35,7 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
 <!--![](https://komarev.com/ghpvc/?username=your-github-NicolasLima01&color=green&label=PROFILE+VIEWS)-->
 
 ---
-
+<!--
 ## Estatísticas  
 
 <div>
@@ -54,3 +54,4 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=GreenIT&theme=merko" />
 </a>
 </div>
+
