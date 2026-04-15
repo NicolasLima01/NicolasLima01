@@ -34,22 +34,111 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
 
 ---
 
+
 ## Estatísticas  
 
-<div>
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko&locale=pt-br">
-  <img align="center" width="40%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko&locale=pt-br">
+
+<div  >
+
+  <!-- ESTATÍSTICAS -->
+
+  <picture>
+
+  <!-- Imagem para temas escuros -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=merko&locale=pt-br"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <!-- Imagem para temas claros -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=shadow_green&locale=pt-br"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=NicolasLima01&show_icons=true&theme=shadow_green&locale=pt-br" />
+    
+  </picture>
+
+
+<!-- TOP LINGUAGENS -->
+
+
+<picture>
+
+  <!-- Imagem para temas escuros -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko&locale=pt-br"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <!-- Imagem para temas claros -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=shadow_green&locale=pt-br"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  
+  <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLima01&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko&locale=pt-br" /> 
+    
+  </picture>
+
+
+
 </div>
 
 ## Principais Repositórios
+
 <div>
 
+
+<!-- REPOSITÓRIO HARDCONSTRUCT -->
+
+
 <a href="https://github.com/NicolasLima01/HardConstruct">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=HardConstruct&theme=merko" />
-</a>
+
+  <picture>
+
+  <!-- Imagem para temas escuros -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=HardConstruct&theme=merko"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <!-- Imagem para temas claros -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=HardConstruct&theme=shadow_green"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=HardConstruct&theme=shadow_green" /> 
+    
+  </picture>
+  
+
+<!-- REPOSITÓRIO GREEN IT -->
+
+
 <a href="https://github.com/NicolasLima01/GreenIT">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=GreenIT&theme=merko" />
+
+  <picture>
+
+  <!-- Imagem para temas escuros -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=GreenIT&theme=merko"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <!-- Imagem para temas claros -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=GreenIT&theme=shadow_green"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=GreenIT&theme=shadow_green" /> 
+    
+  </picture>
+
 </a>
+
 </div>
 
