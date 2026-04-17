@@ -109,7 +109,8 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasLima01&repo=HardConstruct&theme=shadow_green" /> 
     
   </picture>
-  
+
+</a>
 
 <!-- REPOSITÓRIO GREEN IT -->
 
