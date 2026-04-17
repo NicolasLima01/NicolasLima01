@@ -24,13 +24,9 @@ Se você tiver alguma dúvida ou quiser comentar sobre qualquer um dos meus proj
 
 ## Contato
 
-  <a href="https://www.linkedin.com/in/nicolaslima01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:nicolasrlima@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-  </a>
+<!-- badges de contato -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolaslima01/)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nicolasrlima@protonmail.com)
 
 ---
 
